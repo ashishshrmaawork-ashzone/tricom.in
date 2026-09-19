@@ -1,0 +1,224 @@
+[
+  {
+    "code": "ISO 9001",
+    "name": "Quality management",
+    "icon": "shield",
+    "category": "quality",
+    "description": "Build consistent processes. Deliver better customer experiences.",
+    "scope": "Process mapping, quality objectives, documented information, internal audit preparation and management review support.",
+    "slug": "iso-9001",
+    "headline": "Make quality part of the way you work.",
+    "overview": "ISO 9001 provides a framework for a quality management system. It helps an organisation connect customer requirements, operational processes and continual improvement. The focus is on how work is managed consistently, rather than certifying an individual product.",
+    "audience": [
+      "Manufacturing and engineering businesses",
+      "Service providers and professional firms",
+      "Trading, logistics and growing organisations"
+    ],
+    "benefits": [
+      "Clear responsibilities and repeatable processes",
+      "A structured approach to customer feedback",
+      "Better visibility of issues and corrective actions",
+      "A foundation for continual improvement"
+    ],
+    "support": [
+      "Map your processes and define the system scope",
+      "Agree quality objectives and process measures",
+      "Develop useful procedures and working records",
+      "Prepare your team for internal audits and management review"
+    ],
+    "records": [
+      "Process maps and responsibility matrix",
+      "Quality policy and measurable objectives",
+      "Operating procedures and monitoring records",
+      "Internal audit, review and corrective action records"
+    ],
+    "question": "Can a small business implement ISO 9001?",
+    "answer": "Yes. The system should reflect the organisation?s size, activities and complexity. Our consultancy focuses on documentation and controls that are proportionate to your operations.",
+    "source": "https://www.iso.org/standards/popular/iso-9000-family"
+  },
+  {
+    "code": "ISO 14001",
+    "name": "Environmental management",
+    "icon": "leaf",
+    "category": "sustainability",
+    "description": "Manage your environmental impact with a practical, structured approach.",
+    "scope": "Environmental aspect assessment, objectives, operational controls, awareness and internal audit support.",
+    "slug": "iso-14001",
+    "headline": "Turn environmental goals into everyday action.",
+    "overview": "ISO 14001 is a management system standard for identifying and managing environmental responsibilities. It provides a structured way to consider how activities affect the environment, plan controls and review environmental performance.",
+    "audience": [
+      "Manufacturing and processing operations",
+      "Construction and infrastructure businesses",
+      "Logistics, facilities and service organisations"
+    ],
+    "benefits": [
+      "Greater understanding of environmental impacts",
+      "Clear ownership of environmental objectives",
+      "More consistent operational controls",
+      "A framework for tracking environmental improvement"
+    ],
+    "support": [
+      "Identify environmental aspects within your scope",
+      "Review how applicable obligations are identified and tracked",
+      "Develop objectives and practical operating controls",
+      "Prepare awareness, internal review and audit activities"
+    ],
+    "records": [
+      "Environmental aspects and impacts register",
+      "Environmental policy and objectives",
+      "Operational controls and monitoring records",
+      "Emergency preparedness and internal review records"
+    ],
+    "question": "Does ISO 14001 certification replace environmental permissions?",
+    "answer": "No. A management system supports the way an organisation manages its responsibilities. Applicable permits, approvals and other obligations must still be identified and addressed separately.",
+    "source": "https://www.iso.org/standards/popular/iso-14000-family"
+  },
+  {
+    "code": "ISO 45001",
+    "name": "Occupational health & safety",
+    "icon": "people",
+    "category": "quality",
+    "description": "Put your people first with safer, healthier ways of working.",
+    "scope": "Hazard identification, risk assessment, worker participation, operational procedures and audit preparation.",
+    "slug": "iso-45001",
+    "headline": "A stronger system for safer work.",
+    "overview": "ISO 45001 focuses on occupational health and safety management. It provides a framework for identifying hazards, managing risks and involving workers in improving workplace health and safety.",
+    "audience": [
+      "Manufacturing and industrial operations",
+      "Construction, contracting and maintenance teams",
+      "Warehousing, logistics and service workplaces"
+    ],
+    "benefits": [
+      "A systematic approach to workplace hazards",
+      "Stronger worker participation and communication",
+      "Clearer responsibilities for health and safety",
+      "More consistent review of incidents and improvements"
+    ],
+    "support": [
+      "Define scope and assess existing safety processes",
+      "Support hazard identification and risk assessment",
+      "Develop controls and worker consultation arrangements",
+      "Guide incident review, internal audits and readiness checks"
+    ],
+    "records": [
+      "Hazard identification and risk assessment records",
+      "Health and safety policy and objectives",
+      "Training, consultation and operational control records",
+      "Incident, corrective action and review records"
+    ],
+    "question": "Is ISO 45001 only for high-risk industries?",
+    "answer": "No. Organisations with different types of work can use the framework. The hazards, controls and level of documentation should reflect the actual work and risk profile.",
+    "source": "https://www.iso.org/standard/45001"
+  },
+  {
+    "code": "ISO 27001",
+    "name": "Information security",
+    "icon": "lock",
+    "category": "security",
+    "description": "Protect information. Manage risk. Build stakeholder confidence.",
+    "scope": "Information asset assessment, risk treatment, security policies, statement of applicability and audit readiness.",
+    "slug": "iso-27001",
+    "headline": "Build confidence in how you protect information.",
+    "overview": "ISO/IEC 27001 sets requirements for an information security management system. It uses a risk-based approach to managing information security, helping organisations protect the confidentiality, integrity and availability of information.",
+    "audience": [
+      "IT, software and technology companies",
+      "Professional services handling client information",
+      "Organisations managing business-critical or sensitive data"
+    ],
+    "benefits": [
+      "A clearer understanding of information risks",
+      "Defined ownership of security responsibilities",
+      "A consistent approach to selecting security controls",
+      "A framework for reviewing and improving security"
+    ],
+    "support": [
+      "Define the information security scope and context",
+      "Assess information risks and plan treatment",
+      "Support policies and the statement of applicability",
+      "Guide awareness, internal audit and management review"
+    ],
+    "records": [
+      "System scope and information asset records",
+      "Risk assessment and treatment plan",
+      "Statement of applicability and security policies",
+      "Monitoring, incident and internal review records"
+    ],
+    "question": "Is ISO 27001 only about IT systems?",
+    "answer": "No. Information security also involves people, processes and physical arrangements. The management system considers relevant risks across the agreed organisational scope.",
+    "source": "https://www.iso.org/standard/27001"
+  },
+  {
+    "code": "ISO 22000",
+    "name": "Food safety management",
+    "icon": "food",
+    "category": "quality",
+    "description": "Bring a systematic approach to food safety across your operations.",
+    "scope": "Food safety hazard analysis, prerequisite programmes, traceability, team awareness and audit preparation.",
+    "slug": "iso-22000",
+    "headline": "Bring food safety into every stage of your process.",
+    "overview": "ISO 22000 is a food safety management system standard for organisations in the food chain. It connects management system practices, communication and food safety hazard control in a structured approach.",
+    "audience": [
+      "Food manufacturers and processors",
+      "Food storage, transport and distribution businesses",
+      "Catering, hospitality and other food-chain organisations"
+    ],
+    "benefits": [
+      "Clearer food safety responsibilities",
+      "A systematic approach to food safety hazards",
+      "More consistent communication across the food chain",
+      "Structured monitoring and continual improvement"
+    ],
+    "support": [
+      "Understand your products, processes and scope",
+      "Support hazard analysis and control planning",
+      "Develop practical traceability and communication procedures",
+      "Prepare awareness, verification and audit readiness activities"
+    ],
+    "records": [
+      "Food safety policy and process flow information",
+      "Hazard analysis and control plans",
+      "Prerequisite programme and monitoring records",
+      "Traceability, verification and corrective action records"
+    ],
+    "question": "Can ISO 22000 apply beyond food manufacturing?",
+    "answer": "Yes. It is intended for organisations in the food chain. The scope and implementation approach should reflect your activities and your role in food safety.",
+    "source": "https://www.iso.org/iso-22000-food-safety-management.html"
+  },
+  {
+    "code": "ISO 50001",
+    "name": "Energy management",
+    "icon": "energy",
+    "category": "sustainability",
+    "description": "Understand energy use and build a foundation for better performance.",
+    "scope": "Energy review, baseline and performance indicators, action plans, monitoring and audit support.",
+    "slug": "iso-50001",
+    "headline": "Make better energy performance a managed priority.",
+    "overview": "ISO 50001 provides a framework for an energy management system. It helps organisations understand energy use, establish objectives and monitor progress in energy performance through a structured improvement cycle.",
+    "audience": [
+      "Energy-intensive manufacturing and processing",
+      "Commercial buildings and facilities teams",
+      "Organisations seeking a structured energy management approach"
+    ],
+    "benefits": [
+      "Better visibility of energy use and consumption",
+      "Clear ownership of energy improvement actions",
+      "A basis for monitoring energy performance",
+      "A repeatable cycle for review and improvement"
+    ],
+    "support": [
+      "Define scope and support your energy review",
+      "Develop baseline and performance indicator approaches",
+      "Plan objectives, action plans and monitoring",
+      "Guide team awareness and internal audit preparation"
+    ],
+    "records": [
+      "Energy review and significant energy use records",
+      "Energy baseline and performance indicators",
+      "Energy policy, objectives and action plans",
+      "Monitoring, evaluation and review records"
+    ],
+    "question": "Does ISO 50001 guarantee a fixed energy saving?",
+    "answer": "No fixed saving is guaranteed. Results depend on the organisation, its energy uses, selected actions and implementation. Consultancy helps establish a system for measuring and improving performance.",
+    "source": "https://www.iso.org/iso-50001-energy-management.html"
+  }
+]

@@ -1,0 +1,45 @@
+﻿.detail-hero{padding:38px 0 64px;background:#f0f6f2}
+.detail-hero h1{font-size:clamp(38px,4.2vw,60px);max-width:810px}
+.detail-hero .breadcrumb-line{flex-wrap:wrap}
+.detail-headline{font-size:17px;margin:23px 0 29px}
+.standard-emblem{max-width:285px;margin-left:auto;min-height:260px;border:1px solid #c9ded2;background:#e5efe8;border-radius:12px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;text-align:center;padding:30px 20px}
+.emblem-icon .icon{height:50px;width:50px;color:var(--teal)}
+.standard-emblem>strong{font-size:32px;font-weight:600;letter-spacing:-1px}
+.standard-emblem>span:not(.emblem-icon){font-size:12px;color:#537365}
+.emblem-caption{font-size:8px;letter-spacing:1px;border-top:1px solid #c9ded2;padding-top:15px;margin-top:4px}
+.detail-block{margin-bottom:48px;scroll-margin-top:115px}
+.detail-block h2{font-size:35px}.detail-block>p{font-size:14px;line-height:1.85}
+.detail-source{display:inline-flex;gap:8px;align-items:center;color:var(--teal);font-size:12px;font-weight:500}
+.detail-source .icon{width:15px;height:15px}
+.detail-benefits{display:grid;grid-template-columns:1fr 1fr;border:1px solid var(--line);border-radius:7px;overflow:hidden;margin-top:26px}
+.detail-benefits article{padding:23px 26px;background:#f7faf8}
+.detail-benefits article:nth-child(odd){border-right:1px solid var(--line)}
+.detail-benefits article:nth-child(-n+2){border-bottom:1px solid var(--line)}
+.detail-number{display:block;color:var(--teal);font-size:10px;letter-spacing:1px;margin-bottom:12px}
+.detail-benefits h3{font-size:16px;letter-spacing:0;line-height:1.6;margin:0}
+.detail-checklist{list-style:none;padding:0;margin:23px 0}
+.detail-checklist li{display:flex;align-items:flex-start;gap:12px;padding:11px 0;font-size:14px}
+.detail-checklist .icon{width:17px;height:17px;margin-top:3px;color:var(--teal)}
+.detail-support{padding-left:25px;margin:25px 0}
+.detail-support li{padding:9px 0 9px 9px;font-size:14px}
+.detail-support li::marker{color:var(--teal);font-weight:600}
+.detail-note{display:flex;align-items:flex-start;gap:15px;padding:22px;background:#eff6f1;border-left:3px solid var(--teal);border-radius:0 5px 5px 0}
+.detail-note .icon{color:var(--teal);margin-top:4px}.detail-note p{font-size:12px;margin:0}
+.detail-block .detail-small{font-size:11px}
+.detail-sidebar{position:sticky;top:112px}
+.detail-nav{border:1px solid var(--line);border-radius:7px;overflow:hidden;margin-bottom:24px}
+.detail-nav h2{padding:23px;margin:0;font-size:17px;letter-spacing:0;background:#f5f8f6}
+.detail-nav a{display:flex;justify-content:space-between;align-items:center;padding:17px 23px;border-top:1px solid var(--line);font-size:13px;font-weight:600}
+.detail-nav a small{display:block;font-size:10px;font-weight:400;color:var(--muted);margin-top:3px}
+.detail-nav a .icon{width:16px;height:16px}
+.detail-nav a:hover,.detail-nav a.active{background:#eaf5ee;color:var(--teal)}
+.detail-cta{padding:30px;background:var(--ink);border-radius:7px}
+.detail-cta>.icon{color:#acddc3;width:30px;height:30px;margin-bottom:20px}
+.detail-cta h2{color:#fff;font-size:28px}.detail-cta em{color:#acddc3}
+.detail-cta p{font-size:12px;color:#afc5c9}.detail-cta .btn{font-size:12px;width:100%}
+.standard-actions{display:flex;gap:16px;align-items:center;border-top:1px solid #e9eeeb;padding-top:17px}
+.standard-actions .card-link{border:0;padding:0;flex:1;width:auto;gap:5px}
+.standard-details{font-size:11px;font-weight:600;white-space:nowrap;color:var(--ink);border-bottom:1px solid #b9ccc6}
+.standard-details:hover{border-color:var(--teal)}
+@media(max-width:991px){.standard-emblem{margin:10px 0 0;max-width:none;min-height:auto;flex-direction:row;flex-wrap:wrap;justify-content:flex-start;padding:20px;gap:16px}.emblem-icon .icon{width:34px;height:34px}.standard-emblem>strong{font-size:25px}.emblem-caption{border:0;padding:0;margin:0 0 0 auto}.detail-sidebar{position:static}.detail-nav{margin-top:5px}}
+@media(max-width:575px){.detail-hero{padding:28px 0 42px}.detail-hero h1{font-size:38px}.detail-headline{font-size:14px}.standard-emblem>span:not(.emblem-icon){width:100%;text-align:left}.emblem-caption{margin:0;font-size:7px}.detail-benefits{grid-template-columns:1fr}.detail-benefits article:nth-child(odd){border-right:0}.detail-benefits article:not(:last-child){border-bottom:1px solid var(--line)}.detail-block{margin-bottom:37px}.detail-block h2{font-size:29px}.detail-block>p,.detail-checklist li,.detail-support li{font-size:13px}.detail-hero .btn{font-size:12px}.detail-cta{padding:25px}}
